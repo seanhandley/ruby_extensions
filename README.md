@@ -1,4 +1,7 @@
-ruby_extensions
-===============
+# Ruby Extensions
 
-Miscellaneous collection of interesting Ruby extensions
+A miscellaneous collection of interesting Ruby extensions.
+
+## Thanks go to...
+
+... the individual authors, who are credited in the individual files themselves.
