@@ -2,7 +2,7 @@
 #
 # Author: Peter Cooper (http://peterc.org/)
 #
-# A methodto work out which method on an object returns what we want
+# A method to work out which method on an object returns what we want
 #
 require 'stringio'
 require 'timeout'
